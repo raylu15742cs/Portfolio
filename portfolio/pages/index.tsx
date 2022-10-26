@@ -7,10 +7,10 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className='bg-[#d7eaf3] text-[#14397d] h-screen '>
+    <div className='bg-[#e3e3e3] text-gray-700 h-screen '>
       <Header />
       <h1 className='text-6xl'>Raymond Lu</h1>
-      <Image src="/images/profile.png" alt={''} width={500} height={500} />
+      <Image className="h-1/6 w-auto" src="/images/profile.png" alt={''} width={500} height={500} />
       <Aboutcomponent />
       <Projectcomponent />
       <Resumecomponent />
