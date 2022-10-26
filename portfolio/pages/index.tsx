@@ -5,7 +5,7 @@ import Resumecomponent from '../components/resumecomponent'
 
 export default function Home() {
   return (
-    <div className='bg-[#FF7600] text-gray-200'>
+    <div className='bg-[#d7eaf3] text-[#14397d] h-screen'>
       <Header />
       <h1 className='text-6xl'> This is Home</h1>
       <Projectcomponent />

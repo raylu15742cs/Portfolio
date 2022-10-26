@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function Header() {
     return (
-        <ul className="flex flex-row space-x-2 ml-10">
+        <ul className=" text-[#77b5d9] flex flex-row space-x-2 ml-10">
             <li>
             <Link href="/">Home</Link>
             </li>
