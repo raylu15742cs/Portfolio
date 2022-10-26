@@ -3,7 +3,7 @@ import Header from "./header"
 
 export default function Project() {
     return (
-         <div>
+         <div >
             <Header />
             <Projectcomponent />
         </div>
