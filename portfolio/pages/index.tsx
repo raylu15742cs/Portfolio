@@ -1,11 +1,17 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Header from '../components/header'
+import About from './about'
+import Main from './main'
+import Project from './project'
+import Resume from './resume'
 
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div>
+    <Header />
+    <About />
+    <Main />
+    <Project />
+    <Resume />
+    </div>
   )
 }
