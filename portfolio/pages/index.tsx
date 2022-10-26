@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <h1 className='text-9xl'> This is Home</h1>
+      <h1 className='text-6xl'> This is Home</h1>
       <Projectcomponent />
       <Aboutcomponent />
       <Resumecomponent />
