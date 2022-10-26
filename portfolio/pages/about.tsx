@@ -1,7 +1,10 @@
+import Header from "./header"
+
 export default function About() {
     return (
-        <div> 
-            <h1> About</h1>
-        </div>
+        <div>
+      <Header />
+      <h1 className='text-9xl'>This is About</h1>
+    </div>
     )
 }

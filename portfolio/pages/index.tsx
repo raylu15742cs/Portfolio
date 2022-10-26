@@ -1,17 +1,11 @@
-import Header from '../components/header'
-import About from './about'
-import Main from './main'
-import Project from './project'
-import Resume from './resume'
+import Link from 'next/link'
+import Header from './header'
 
 export default function Home() {
   return (
     <div>
-    <Header />
-    <About />
-    <Main />
-    <Project />
-    <Resume />
+      <Header />
+      <h1 className='text-9xl'> This is Index</h1>
     </div>
   )
 }
