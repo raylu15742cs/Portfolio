@@ -18,7 +18,19 @@ export default function Home() {
         </div>
       </div>
       <Projectcomponent />
+      <hr className='mt-5 mx-2'
+        style={{
+          borderColor: 'black',
+          height: '3px',
+        }}
+      />
       <Aboutmecomponent />
+      <hr className='mt-5 mx-2'
+        style={{
+          borderColor: 'black',
+          height: '3px',
+        }}
+      />
       <Timelinecomponent />
       {/*       <Aboutcomponent />
       <Resumecomponent />
