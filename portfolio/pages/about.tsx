@@ -1,4 +1,4 @@
-import Aboutcomponent from "../components/aboutcomponent"
+import Aboutcomponent from "../components/timelinecomponent"
 import Header from "./header"
 
 export default function About() {

@@ -1,7 +1,8 @@
 import Header from './header'
 import Projectcomponent from '../components/projectcomponent'
 import Image from 'next/image'
-import Aboutcomponent from '../components/aboutcomponent'
+import Timelinecomponent from '../components/timelinecomponent'
+import Aboutmecomponent from '../components/aboutmecomponent'
 
 
 export default function Home() {
@@ -17,7 +18,8 @@ export default function Home() {
         </div>
       </div>
       <Projectcomponent />
-      <Aboutcomponent />
+      <Aboutmecomponent />
+      <Timelinecomponent />
       {/*       <Aboutcomponent />
       <Resumecomponent />
        */}
