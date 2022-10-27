@@ -2,7 +2,7 @@ export default function Timelinecomponent() {
     return (
          <div>
             <h1 className='text-3xl text-center'>My Life Story</h1>
-            <div className="flex p-2 mx-[10%] mt-2 border-2 border-slate-900">
+            <div className="flex p-2 mx-[10%] mt-2 border-2 border-slate-900 rounded-lg">
                 <div className=" text-xs">
                     <h1>2</h1>
                     <h1>0</h1>
