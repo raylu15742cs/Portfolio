@@ -7,7 +7,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className='bg-[#e3e3e3] text-gray-700 h-screen w-screen pt-3'>
+    <div className='bg-[#e3e3e3] text-gray-700 h-screen w-screen pt-1'>
       <Header />
       <div className='text-center'>
         <div>
