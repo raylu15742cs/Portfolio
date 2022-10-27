@@ -12,6 +12,7 @@ export default function Home() {
           <Image className="h-[40vw] w-auto ml-[auto] mr-[auto] pt-2" src="/images/profile.png" alt={''} width={500} height={500} />
           <h1 className='text-5xl pt-1'>Raymond Lu</h1>  
           <p className='text-sm pt-1'>Front End Developer based in Pasadena, CA</p>
+          <p>求不得 放不下</p>
         </div>
       </div>
       <Projectcomponent />
