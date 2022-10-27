@@ -1,7 +1,5 @@
 import Header from './header'
 import Projectcomponent from '../components/projectcomponent'
-import Aboutcomponent from '../components/aboutcomponent'
-import Resumecomponent from '../components/resumecomponent'
 import Image from 'next/image'
 
 
