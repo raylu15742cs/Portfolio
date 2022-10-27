@@ -1,6 +1,7 @@
 import Header from './header'
 import Projectcomponent from '../components/projectcomponent'
 import Image from 'next/image'
+import Aboutcomponent from '../components/aboutcomponent'
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
         </div>
       </div>
       <Projectcomponent />
+      <Aboutcomponent />
       {/*       <Aboutcomponent />
       <Resumecomponent />
        */}
