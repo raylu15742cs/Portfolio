@@ -10,7 +10,7 @@ export default function Projectcomponent() {
             <video className="max-w-[80%] mx-auto border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                 <source src="/images/beluga.mp4" type="video/mp4" />
             </video>
-            <video className="max-w-[80%] mx-auto border-2 border-slate-800 mt-2" playsInline autoPlay muted loop >
+            <video className="max-w-[80%] mx-auto border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                 <source src="/images/battleship.mp4" type="video/mp4" />
             </video>
         </div>
