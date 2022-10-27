@@ -4,13 +4,13 @@ export default function Projectcomponent() {
     return (
          <div className="text-center pt-4">
             <h1 className='text-3xl'>Projects</h1>
-            <h2> Yeezy Beluga </h2>
-            <video className="w-4/6 mx-auto" autoPlay muted loop >
-                <source src="/images/beluga.mp4" type="video/mp4" />
-            </video>
             <h2> Pokemon </h2>
             <video className="w-4/6  mx-auto" autoPlay muted loop >
                 <source src="/images/pokemon.mp4" type="video/mp4" />
+            </video>
+            <h2> Yeezy Beluga </h2>
+            <video className="w-4/6 mx-auto" autoPlay muted loop >
+                <source src="/images/beluga.mp4" type="video/mp4" />
             </video>
             <h2> Battleship </h2>
             <video className="w-4/6  mx-auto" autoPlay muted loop >
