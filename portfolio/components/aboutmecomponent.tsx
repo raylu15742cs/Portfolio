@@ -8,7 +8,7 @@ export default function Aboutmecomponent() {
             <p className="pt-1">Here are a few technologies that I currently am using: </p>
             <div className="flex pt-1">
                 <ul className="pr-8 pl-7 list-disc">
-                    <li>JavaScript (ES6+)</li>
+                    <li>JavaScript</li>
                     <li>React</li>
                 </ul>
                 <ul className="list-disc pr-8">
