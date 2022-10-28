@@ -26,6 +26,12 @@ export default function Home() {
         }}
       />
       <Connectcomponent />
+      <hr className='mt-5 mx-[5%]'
+        style={{
+          borderColor: 'black',
+          height: '3px',
+        }}
+      />
       <Aboutmecomponent />
       <hr className='mt-5 mx-[5%]'
         style={{
