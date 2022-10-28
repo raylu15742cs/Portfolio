@@ -8,7 +8,7 @@ import Connectcomponent from '../components/connectcomponent'
 
 export default function Home() {
   return (
-    <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-5'>
+    <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-2'>
       <Header />
       <div className='text-center'>
         <div>
