@@ -25,13 +25,6 @@ export default function Home() {
           height: '3px',
         }}
       />
-      <Connectcomponent />
-      <hr className='mt-5 mx-[5%]'
-        style={{
-          borderColor: 'black',
-          height: '3px',
-        }}
-      />
       <Aboutmecomponent />
       <hr className='mt-5 mx-[5%]'
         style={{
@@ -40,6 +33,13 @@ export default function Home() {
         }}
       />
       <Timelinecomponent />
+      <hr className='mt-5 mx-[5%]'
+        style={{
+          borderColor: 'black',
+          height: '3px',
+        }}
+      />
+      <Connectcomponent />
       {/*       <Aboutcomponent />
       <Resumecomponent />
        */}
