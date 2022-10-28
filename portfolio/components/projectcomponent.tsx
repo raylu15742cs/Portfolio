@@ -5,6 +5,8 @@ export default function Projectcomponent() {
             <video className="max-w-[90%] mx-auto border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                 <source src="/images/pokemon.mp4" type="video/mp4" />
             </video>
+            <button className="border-2 border-slate-900  mt-2 mr-2 px-2"> Live Link</button>
+            <button className="border-2 border-slate-900  mt-2 mr-2 px-2"> Github Repo</button>
             <video className="max-w-[90%] mx-auto border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                 <source src="/images/beluga.mp4" type="video/mp4" />
             </video>
