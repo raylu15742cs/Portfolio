@@ -4,10 +4,10 @@ import Image from "next/image"
 export default function Connectcomponent() {
     return (
         <div>
-            <div className="text-center text-3xl">
+            <div className="text-center text-2xl">
                 Connect With Me
             </div>
-            <div className="flex mx-[15%] pt-1 ">
+            <div className=" flex mx-auto pt-1 sm:max-w-[300px] ">
                 <a className="mx-auto" href="https://github.com/raylu15742cs" target="#">
                     <Image className="h-[40px] w-auto" src="/images/linkedin.png" alt={''} width={500} height={500} />
                 </a>
