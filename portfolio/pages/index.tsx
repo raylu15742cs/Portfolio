@@ -3,6 +3,7 @@ import Projectcomponent from '../components/projectcomponent'
 import Image from 'next/image'
 import Timelinecomponent from '../components/timelinecomponent'
 import Aboutmecomponent from '../components/aboutmecomponent'
+import Connectcomponent from '../components/connectcomponent'
 
 
 export default function Home() {
@@ -24,6 +25,7 @@ export default function Home() {
           height: '3px',
         }}
       />
+      <Connectcomponent />
       <Aboutmecomponent />
       <hr className='mt-5 mx-[5%]'
         style={{

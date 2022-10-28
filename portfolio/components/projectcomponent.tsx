@@ -1,5 +1,3 @@
-import Image from "next/image"
-
 export default function Projectcomponent() {
     return (
          <div className="text-center pt-4">
