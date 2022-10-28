@@ -17,7 +17,7 @@ export default function Home() {
           <p className='text-sm pt-1'>Front End Developer based in Pasadena, CA</p>
           <p>求不得 放不下</p>
           </div>
-          <Image className="h-[30vh] w-auto pt-2 mx-auto sm:ml-0" src="/images/profile.png" alt={''} width={500} height={500} />
+          <Image className="h-[20vh] w-auto pt-2 mx-auto sm:ml-0" src="/images/profile.png" alt={''} width={500} height={500} />
           <div className='sm:hidden'>
             <h1 className='text-5xl pt-1'>Raymond Lu</h1>  
           <p className='text-sm pt-1'>Front End Developer based in Pasadena, CA</p>
