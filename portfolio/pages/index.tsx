@@ -8,7 +8,7 @@ import Connectcomponent from '../components/connectcomponent'
 
 export default function Home() {
   return (
-    <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-2'>
+    <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-2 min-h-screen'>
       <Header />
       <div className='text-center '>
         <div className='sm:flex items-center md:mx-auto'>
@@ -34,10 +34,10 @@ export default function Home() {
       />
       <div className=' hidden md:flex mx-[10%]'>
         <div className='w-[50%] mx-auto'>
-          <Aboutmecomponent />
+          <Timelinecomponent />
         </div>
         <div className='w-[50%] mx-auto'>
-          <Timelinecomponent />
+          <Aboutmecomponent />
         </div>
       </div>
       <div className='md:hidden'>
