@@ -4,7 +4,7 @@ import Image from "next/image"
 export default function Connectcomponent() {
     return (
         <div>
-            <div className="text-center">
+            <div className="text-center text-3xl">
                 Connect With Me
             </div>
             <div className="flex mx-[10%]  ">
