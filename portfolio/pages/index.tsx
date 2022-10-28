@@ -32,7 +32,16 @@ export default function Home() {
           height: '3px',
         }}
       />
-      <Aboutmecomponent />
+      <div className=' hidden md:flex mx-[10%]'>
+        <div className='w-[50%] mx-auto'>
+          <Aboutmecomponent />
+        </div>
+        <div className='w-[50%] mx-auto'>
+          <Timelinecomponent />
+        </div>
+      </div>
+      <div className='md:hidden'>
+        <Aboutmecomponent />
       <hr className='mt-5 mx-[5%]'
         style={{
           borderColor: 'black',
@@ -46,6 +55,7 @@ export default function Home() {
           height: '3px',
         }}
       />
+      </div>
       <Connectcomponent />
       {/*       <Aboutcomponent />
       <Resumecomponent />
