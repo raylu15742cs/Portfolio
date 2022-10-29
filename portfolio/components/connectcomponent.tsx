@@ -15,7 +15,7 @@ export default function Connectcomponent() {
                 <a className="mx-auto"  href="https://www.youtube.com/channel/UCZ0lcRhWFgwx0x7qsR-BlsQ" target="#">
                     <Image className="h-[40px] w-auto  " src="/images/youtubeicon.png" alt={''} width={500} height={500} />
                 </a>
-                 <a className="mx-auto"  href="https://www.linkedin.com/in/raylu15742/" target="#">
+                 <a className="mx-auto"  href="https://github.com/raylu15742cs" target="#">
                     <Image className="h-[40px] w-auto" src="/images/githubicon.png" alt={''} width={500} height={500} />
                 </a>
                 <a className="mx-auto"  href="https://twitter.com/RaymondLuTech" target="#">
