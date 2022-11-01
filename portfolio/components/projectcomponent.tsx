@@ -15,7 +15,7 @@ export default function Projectcomponent() {
                         <source src="/images/pokemon.mp4" type="video/mp4" />
                     </video>
                 </div>
-                <div>
+                <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%]">
                     <h1 className='text-3xl'>Yeezy Beluga Theme Store</h1>
                     <video className=" border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                         <source src="/images/beluga.mp4" type="video/mp4" />
