@@ -5,7 +5,7 @@ export default function Projectcomponent() {
             <div className="flex flex-wrap">
                 <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%]">
                     <h1 className='text-3xl'>My Youtube Channel</h1>
-                    <video className="max-w-[90%] mx-auto border-2 border-slate-800 mt-2 rounded-lg md:w-[48%]" playsInline autoPlay muted loop >
+                    <video className=" border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                         <source src="/images/battleship.mp4" type="video/mp4" />
                     </video>
                 </div>
