@@ -36,7 +36,6 @@ export default function Timelinecomponent() {
                 </div>
                 <div className=" pl-5 pt-3 text-xs">
                     <p>Completed associates degree and transferred to University of California Irvine</p>
-                    <p>Filler</p>
                 </div>
             </div>
             <div className=" flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg">
