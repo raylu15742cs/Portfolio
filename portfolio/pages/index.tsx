@@ -8,7 +8,7 @@ import Connectcomponent from '../components/connectcomponent'
 
 export default function Home() {
   return (
-    <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-2 min-h-screen'>
+    <div className='bg-[#e3e3e3] text-gray-700 pt-1 pb-2 min-h-screen'>
       <Header />
       <div className='text-center '>
         <div className='sm:flex items-center md:mx-auto'>
@@ -59,7 +59,7 @@ export default function Home() {
         }}
       />
       </div>
-      <div className=" lg:hidden xl:block pt-3">
+      <div className=" lg:hidden xl:block pt-4">
         <Connectcomponent />
 
       </div>

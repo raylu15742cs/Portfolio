@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function Header() {
     return (
-        <ul className="hidden md:flex justify-between px-5 ">
+        <ul className="hidden justify-between px-5 ">
             <li>
             <Link href="/">Home</Link>
             </li>
