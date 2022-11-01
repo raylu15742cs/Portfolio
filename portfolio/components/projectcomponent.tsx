@@ -8,7 +8,7 @@ export default function Projectcomponent() {
                         <source src="/images/battleship.mp4" type="video/mp4" />
                     </video>
                 </div>
-                <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%]">
+                <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%] min-[2500px]:w-[25%]">
                     <h1 className='text-3xl'>Pokemon Memory Game</h1>
                     <video className=" border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                         <source src="/images/pokemon.mp4" type="video/mp4" />
