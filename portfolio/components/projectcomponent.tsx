@@ -1,7 +1,6 @@
 export default function Projectcomponent() {
     return (
          <div className=" text-center pt-4 lg:mx-[5%]">
-            <h1 className='text-3xl'>Most Recent Projects</h1>
             <div className="flex flex-wrap">
                 <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%]">
                     <h1 className='text-3xl'>My Youtube Channel</h1>
