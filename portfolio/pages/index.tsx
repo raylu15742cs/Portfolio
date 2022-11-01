@@ -59,7 +59,7 @@ export default function Home() {
         }}
       />
       </div>
-      <div className=" lg:hidden xl:block">
+      <div className=" lg:hidden xl:block pt-3">
         <Connectcomponent />
 
       </div>
