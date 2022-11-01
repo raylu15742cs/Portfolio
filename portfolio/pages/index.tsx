@@ -59,7 +59,7 @@ export default function Home() {
         }}
       />
       </div>
-      <div className='xl:absolute xl:inset-x-0 xl:bottom-0 lg:hidden xl:block'>
+      <div className=" lg:hidden xl:block">
         <Connectcomponent />
 
       </div>
