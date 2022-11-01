@@ -22,7 +22,7 @@ export default function Projectcomponent() {
                     </video>
                 </div>
                 <div>
-                    <h1 className='text-3xl'>Pokemon Memory Game</h1>
+                    <h1 className='text-3xl'>Battleship Replica</h1>
                     <video className="max-w-[90%] mx-auto border-2 border-slate-800 mt-2 rounded-lg md:w-[48%]" playsInline autoPlay muted loop >
                         <source src="/images/battleship.mp4" type="video/mp4" />
                     </video>
