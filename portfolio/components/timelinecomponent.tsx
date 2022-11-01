@@ -9,7 +9,7 @@ export default function Timelinecomponent() {
                     <h1>2</h1>
                     <h1>2</h1>
                 </div>
-                <div className=" pl-5 pt-3 text-xs">
+                <div className=" my-auto ml-5 text-xs">
                     <p>Started Developer Journey on The Odin Project</p>
                     <p>Created a Youtube Channel </p>
                 </div>
@@ -21,7 +21,7 @@ export default function Timelinecomponent() {
                     <h1>2</h1>
                     <h1>1</h1>
                 </div>
-                <div className=" pl-5 pt-3 text-xs">
+                <div className=" my-auto ml-5  text-xs">
                     <p>Awarded Bachelors of Arts in Economics</p>
                     <p>Took an Introduction to Computer Science Course</p>
                 </div>
@@ -34,7 +34,7 @@ export default function Timelinecomponent() {
                     <h1>1</h1>
                     <h1>9</h1>
                 </div>
-                <div className=" pl-5 pt-3 text-xs">
+                <div className=" my-auto ml-5  text-xs">
                     <p>Completed associates degree and transferred to University of California Irvine</p>
                 </div>
             </div>
@@ -45,7 +45,7 @@ export default function Timelinecomponent() {
                     <h1>1</h1>
                     <h1>7</h1>
                 </div>
-                <div className=" pl-5 pt-3 text-xs">
+                <div className=" my-auto ml-5  text-xs">
                     <p>As a Sophomore decided to take exit exam to start attending college</p>
                 </div>
             </div>
