@@ -63,10 +63,6 @@ export default function Home() {
         <Connectcomponent />
 
       </div>
-
-      {/*       <Aboutcomponent />
-      <Resumecomponent />
-       */}
     </div>
   )
 }
