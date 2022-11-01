@@ -15,7 +15,7 @@ export default function Projectcomponent() {
                     </video>
                 </div>
                 <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%] min-[2500px]:w-[24%]">
-                    <h1 className='text-3xl'><a href="https://raymond.is-a.dev/Pokemon-Memory-Game/" target="#"> Yeezy Beluga Theme Store </a></h1>
+                    <h1 className='text-3xl'><a href="https://raymond.is-a.dev/Beluga-Theme-Store/" target="#"> Yeezy Beluga Theme Store </a></h1>
                     <video className=" border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
                         <source src="/images/beluga.mp4" type="video/mp4" />
                     </video>
