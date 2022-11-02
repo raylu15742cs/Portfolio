@@ -38,9 +38,6 @@ export default function Home() {
         </div>
         <div className='w-[50%] mx-auto'>
           <Aboutmecomponent />
-          <div className='hidden lg:block lg:mt-[2vw] xl:hidden'>
-            <Connectcomponent />
-          </div>
         </div>
       </div>
       <div className='md:hidden'>
@@ -59,7 +56,7 @@ export default function Home() {
         }}
       />
       </div>
-      <div className=" lg:hidden xl:block pt-4">
+      <div>
         <Connectcomponent />
 
       </div>
