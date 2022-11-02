@@ -32,7 +32,7 @@ export default function Home() {
           height: '3px',
         }}
       />
-      <div className=' hidden md:flex mx-[10%]'>
+      <div className=' hidden md:flex mx-[2.5%]'>
         <div className='w-[50%] mx-auto'>
           <Timelinecomponent />
         </div>
