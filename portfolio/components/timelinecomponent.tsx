@@ -3,7 +3,7 @@ export default function Timelinecomponent() {
          <div>
             <h1 className='text-3xl text-center'>My Life Story</h1>
             <div className="flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg">
-                <div className=" text-xs">
+                <div className="my-auto text-xs">
                     <h1>2</h1>
                     <h1>0</h1>
                     <h1>2</h1>
@@ -16,7 +16,7 @@ export default function Timelinecomponent() {
                 </div>
             </div>
             <div className="flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg">
-                <div className=" text-xs">
+                <div className="my-auto text-xs">
                     <h1>2</h1>
                     <h1>0</h1>
                     <h1>2</h1>
@@ -30,7 +30,7 @@ export default function Timelinecomponent() {
             </div>
             <div className="  flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg
             ">
-                <div className=" text-xs">
+                <div className=" my-auto text-xs">
                     <h1>2</h1>
                     <h1>0</h1>
                     <h1>1</h1>
@@ -43,7 +43,7 @@ export default function Timelinecomponent() {
                 </div>
             </div>
             <div className=" flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg">
-                <div className=" text-xs">
+                <div className="my-auto text-xs">
                     <h1>2</h1>
                     <h1>0</h1>
                     <h1>1</h1>
