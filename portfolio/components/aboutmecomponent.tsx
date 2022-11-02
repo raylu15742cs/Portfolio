@@ -7,7 +7,7 @@ export default function Aboutmecomponent() {
                 <p className="pt-1">My first taste of web development was when I decided to take an intro to computer science course based on python. It was one of the courses that I will never forget, and it definitely peaked my interest in the field. </p>
                 <p className="pt-1">I decided to take the next step and start learning web development on my own. I started with the Odin Project, and I am currently working on the curriculum. I am also working on my Youtube channel where I will be posting videos on my journey. </p>
                 <p className="pt-1">My goal is to become a front end developer, and I am currently working on my skills in React, Node, and Python. I am also working on my skills in UI/UX design. </p>
-                <p className="pt-1">I am currently looking for a job as a junior developer, and I am open to any opportunities. I am also open to any advice or tips that you may have for me. </p>
+                <p className="pt-1">Currently looking for a junior developer position, and I am open to any opportunities.  </p>
                 <p className="pt-1">Here are a few technologies that I currently am using: </p>
                 <div className="flex pt-1">
                     <ul className="pr-8 pl-7 list-disc">
