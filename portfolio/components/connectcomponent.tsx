@@ -12,7 +12,7 @@ export default function Connectcomponent() {
                     <Image className="h-[40px] w-auto" src="/images/linkedin.png" alt={''} width={500} height={500} />
                 </a>
             
-                <a className="mx-auto"  href="https://www.youtube.com/channel/UCZ0lcRhWFgwx0x7qsR-BlsQ" target="#">
+                <a className="mx-auto"  href="https://www.youtube.com/@raymond-tfl" target="#">
                     <Image className="h-[40px] w-auto  " src="/images/youtubeicon.png" alt={''} width={500} height={500} />
                 </a>
                  <a className="mx-auto"  href="https://github.com/raylu15742cs" target="#">
