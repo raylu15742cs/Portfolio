@@ -24,7 +24,7 @@ export default function Timelinecomponent() {
                 </div>
                 <div className=" my-auto ml-5 min-w-[90%] text-xs">
                     <p className="font-bold text-center">University of California Irvine</p>
-                    <p>Completed Bachelors Degrees in Economics from the University of California Irvine</p>
+                    <p>Completed Bachelor of Arts Degree in Economics from the University of California Irvine</p>
                     <p>Sparked my interest in the field of web development with an Introduction to Computer Science Course</p>
                 </div>
             </div>
