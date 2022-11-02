@@ -9,7 +9,7 @@ export default function Connectcomponent() {
             </div>
             <div className=" flex mx-auto pt-1 sm:max-w-[200px] ">
                 <a className="mx-auto" href="https://www.linkedin.com/in/raylu15742/" target="#">
-                    <Image className="h-[40px] w-auto" src="/images/linkedin.png" alt={''} width={500} height={500} />
+                    <Image className="h-[30px] w-auto" src="/images/linkedin.png" alt={''} width={500} height={500} />
                 </a>
             
                 <a className="mx-auto"  href="https://www.youtube.com/@raymond-tfl" target="#">
