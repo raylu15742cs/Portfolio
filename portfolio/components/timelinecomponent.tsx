@@ -39,7 +39,7 @@ export default function Timelinecomponent() {
                 <div className=" my-auto ml-5 min-w-[90%]  text-xs">
                     <p className="font-bold text-center">Pasadena City College</p>
                     <p>Completed associates degree from Pasadena City College and transferred to UCI</p>
-                    <p>Completed a summer internship at Moon Realty and acquired a real estate license</p>
+                    <p>Completed a Summer Internship at Moon Realty and acquired a real estate license</p>
                 </div>
             </div>
             <div className=" flex p-2 mx-[5%] mt-2 border-2 border-slate-900 rounded-lg">
