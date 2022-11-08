@@ -50,7 +50,7 @@ export default function Timelinecomponent() {
                     <h1>7</h1>
                 </div>
                 <div className=" my-auto ml-5  min-w-[90%] text-xs">
-                    <p className="font-bold text-center">San Gabrield High School</p>
+                    <p className="font-bold text-center">San Gabriel High School</p>
                     <p>As a Sophomore decided to take exit exam to start attending college</p>
                     <p>Competed in my highs school varsity basketball team and became Almont League Champions</p>
                 </div>
