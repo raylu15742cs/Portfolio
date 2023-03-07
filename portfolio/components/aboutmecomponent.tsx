@@ -32,6 +32,9 @@ export default function Aboutmecomponent() {
                 </video>
             </a>
             <p className="pt-2"> &#129391; My favorite dish to make is cold smoked salmon since I can give my bagel a huge portion of that delicious goodness &#129391;</p>
+            <p className="pt-2">🛹 I find that longboarding at the beach or in the park gives me peace of mind as the wind blows by the face 🛹</p>
+            <p className="pt-2"> 🐕 Tiger, my golden retriever, and I enjoy our daily walks around the neighborhood 🐕</p>
+            <p className="pt-2"> &#127936; I try to start my day with a workout plus the swish sound that a basketball makes is music to my ears &#127936;</p>
         </div>
         </div>
     )
