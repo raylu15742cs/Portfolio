@@ -1,4 +1,3 @@
-import Header from './header'
 import Projectcomponent from '../components/projectcomponent'
 import Image from 'next/image'
 import Timelinecomponent from '../components/timelinecomponent'
@@ -10,7 +9,6 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div className='bg-[#e3e3e3] text-gray-700 pt-1 pb-2 min-h-screen'>
-      <Header />
       <div className='text-center '>
         <div className='sm:flex items-center md:mx-auto'>
           <div className='hidden sm:inline mx-auto sm:mr-0'>
