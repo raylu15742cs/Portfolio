@@ -11,7 +11,7 @@ export default function Home() {
     <div className='bg-[#e3e3e3] text-gray-700 pt-1 pb-2 min-h-screen'>
       <Header />
       <Projectcomponent />
-      <Link href='/about'>Learn More About Me!</Link>
+        <p className='mx-auto text-center pt-1 pb-2'><Link href='/about'>Learn More About Me!</Link></p>
     </div>
   )
 }

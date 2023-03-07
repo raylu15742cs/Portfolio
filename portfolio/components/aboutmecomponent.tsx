@@ -24,6 +24,15 @@ export default function Aboutmecomponent() {
                     </ul>
                 </div>
             </div>
+            <div className="max-w-[90%] mx-auto mt-2 rounded-lg md:w-[48%] min-[2500px]:w-[24%]">
+                <h1 className='text-3xl'><a href="https://www.youtube.com/channel/UCZ0lcRhWFgwx0x7qsR-BlsQ" target="#"> My Youtube Channel </a></h1>
+                <a href="https://www.youtube.com/channel/UCZ0lcRhWFgwx0x7qsR-BlsQ" target="#">
+                <video className=" border-2 border-slate-800 mt-2 rounded-lg" playsInline autoPlay muted loop >
+                  <source src="/images/youtube.mp4" type="video/mp4" />
+                </video>
+            </a>
+            <p className="pt-2"> &#129391; My favorite dish to make is cold smoked salmon since I can give my bagel a huge portion of that delicious goodness &#129391;</p>
+        </div>
         </div>
     )
 }
