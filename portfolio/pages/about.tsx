@@ -7,10 +7,7 @@ export default function About() {
         <div className='bg-[#e3e3e3] text-gray-700 pt-2 pb-5 h-screen'>
       <Header />
       <Aboutcomponent />
-      <div>
-        <Connectcomponent />
-
-      </div>
+      {/* <Connectcomponent /> */}
     </div>
     )
 }
