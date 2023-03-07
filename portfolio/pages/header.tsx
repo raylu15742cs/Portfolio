@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function Header() {
     return (
-        <ul className="hidden justify-between pt-10 px-5 ">
+        <ul className="justify-between pt-10 px-5 ">
             <li>
             <Link href="/">Home</Link>
             </li>
@@ -17,9 +17,6 @@ export default function Header() {
                     <Link href="/project">Project</Link>
                 </li>   
             </div>
-            <li>
-            <Link href="/resume">Resume</Link>
-            </li>
         </ul>
     )
 }

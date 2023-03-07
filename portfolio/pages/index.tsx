@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Timelinecomponent from '../components/timelinecomponent'
 import Aboutmecomponent from '../components/aboutmecomponent'
 import Connectcomponent from '../components/connectcomponent'
+import Link from 'next/link'
 
 
 export default function Home() {
@@ -56,6 +57,7 @@ export default function Home() {
         }}
       />
       </div>
+      <Link href='/about'>About</Link>
       <div>
         <Connectcomponent />
 
