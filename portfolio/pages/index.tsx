@@ -55,7 +55,7 @@ export default function Home() {
         }}
       />
       </div>
-      <Link href='/about'>About</Link>
+      <Link href='/about'>Learn More About Me</Link>
       <div>
         <Connectcomponent />
 
