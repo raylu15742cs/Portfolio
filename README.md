@@ -1,7 +1,5 @@
-# portfolio2.0
+# Current Portfolio
 
-This is where the 2.0 will be built before it is merged.
-
-This will be using the 2.0 design
+Live Link: https://portfolio-raylu15742cs.vercel.app/
 
 It will be built using React, Tailwind, TypeScript, Next.js
