@@ -2,7 +2,7 @@ export default function Aboutmecomponent() {
     return (
          <div className="w-[80%] mx-auto text-base md:px-20">
             <h1 className='text-3xl text-center'>About Me</h1>
-            <div className="">
+            <div className="md:px-20">
                 <p>Hello! I am a self taught software engineer based in Pasadena, California. I have an economics background, which I value since it taught me to see the world in a logical way.</p>
                 <p className="pt-1">My first taste of web development was when I decided to take an intro to computer science course based on python. It was one of the courses that I will never forget, and it definitely peaked my interest in the field. </p>
                 <p className="pt-1">I decided to take the next step and start learning web development on my own. I started with the Odin Project, and I am currently building projects such as StudiBetter and Pokemon Memory Game. I am also working on my Youtube channel where I will be posting videos on my journey. </p>
